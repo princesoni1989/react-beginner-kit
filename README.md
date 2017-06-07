@@ -17,9 +17,9 @@ We have number of server and build tools preconfigured in application, to use th
 * MongoDB
 * Logger
 
-### Clone angular-js-seed
+### Clone react-beginner-kit
 
-Clone the angular-seed repository using [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git):
+Clone the react-beginner-kit.git repository using [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git):
 
 ```
 git clone git@github.com:princesoni1989/react-beginner-kit.git
