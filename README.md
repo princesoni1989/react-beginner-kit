@@ -40,7 +40,7 @@ You should find that you have two new folders in your project.
 
 ### Run the Application
 
-We have pre-configured the project with a simple webpack development web server. The simplest way to start this server is:
+We have pre-configured the project with a simple webpack development web server. The simplest way to start this server is -
 
 ```
 npm start
