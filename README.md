@@ -46,7 +46,7 @@ We have pre-configured the project with a simple webpack development web server.
 npm start
 ```
 
-Now browse to the app at`http://localhost:3001`.This will start server in development mode and enable you do fast development. you can make changes and it will deploy automatically.
+Now browse to the app at`http://localhost:3001`. This will start server in development mode and enable you do fast development. you can make changes and it will deploy automatically.
 
 ## Pre configured application
 
